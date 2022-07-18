@@ -1,1 +1,2 @@
 The app was created at 18:45
+The testing environment was created 18:47
