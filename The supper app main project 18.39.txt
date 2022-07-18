@@ -1,3 +1,4 @@
 The app was created at 18:45
-The testing environment was created 18:47
+The testing environment was created at 18:47
+The development environment was created at 19:04
 -- KLI-001 Add button to the app 
